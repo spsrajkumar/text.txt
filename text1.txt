@@ -1,1 +1,1 @@
-creates test. text file
+lenovo,intel core1 i3,12th gen
